@@ -109,3 +109,165 @@ x==========x]
 [2025-11-09 11:00:19,891: INFO: main: >>>>>> stage <<<<<<<Data Transformation stage>>>>>>>>> completed <<<<<<
 
 x==========x]
+[2025-11-09 11:11:44,906: INFO: common: yaml file: D:\Cdac_ML\Assignments\Assignment_4\config\config.yaml loaded successfully]
+[2025-11-09 11:11:44,909: INFO: common: yaml file: D:\Cdac_ML\Assignments\Assignment_4\params.yaml loaded successfully]
+[2025-11-09 11:11:44,912: INFO: common: yaml file: D:\Cdac_ML\Assignments\Assignment_4\schema.yaml loaded successfully]
+[2025-11-09 11:11:44,914: INFO: common: created directory at: artifacts]
+[2025-11-09 11:13:36,587: INFO: common: yaml file: D:\Cdac_ML\Assignments\Assignment_4\config\config.yaml loaded successfully]
+[2025-11-09 11:13:36,590: INFO: common: yaml file: D:\Cdac_ML\Assignments\Assignment_4\params.yaml loaded successfully]
+[2025-11-09 11:13:36,593: INFO: common: yaml file: D:\Cdac_ML\Assignments\Assignment_4\schema.yaml loaded successfully]
+[2025-11-09 11:13:36,593: INFO: common: created directory at: artifacts]
+[2025-11-09 11:13:36,594: INFO: common: created directory at: artifacts/model_trainer]
+[2025-11-09 11:20:32,546: INFO: common: yaml file: D:\Cdac_ML\Assignments\Assignment_4\config\config.yaml loaded successfully]
+[2025-11-09 11:20:32,546: INFO: common: yaml file: D:\Cdac_ML\Assignments\Assignment_4\params.yaml loaded successfully]
+[2025-11-09 11:20:32,546: INFO: common: yaml file: D:\Cdac_ML\Assignments\Assignment_4\schema.yaml loaded successfully]
+[2025-11-09 11:20:32,551: INFO: common: created directory at: artifacts]
+[2025-11-09 11:20:32,551: INFO: common: created directory at: artifacts/model_trainer]
+[2025-11-09 11:21:39,534: INFO: common: yaml file: D:\Cdac_ML\Assignments\Assignment_4\config\config.yaml loaded successfully]
+[2025-11-09 11:21:39,537: INFO: common: yaml file: D:\Cdac_ML\Assignments\Assignment_4\params.yaml loaded successfully]
+[2025-11-09 11:21:39,540: INFO: common: yaml file: D:\Cdac_ML\Assignments\Assignment_4\schema.yaml loaded successfully]
+[2025-11-09 11:21:39,541: INFO: common: created directory at: artifacts]
+[2025-11-09 11:21:39,541: INFO: common: created directory at: artifacts/model_trainer]
+[2025-11-09 11:25:57,275: INFO: common: yaml file: D:\Cdac_ML\Assignments\Assignment_4\config\config.yaml loaded successfully]
+[2025-11-09 11:25:57,293: INFO: common: yaml file: D:\Cdac_ML\Assignments\Assignment_4\params.yaml loaded successfully]
+[2025-11-09 11:25:57,297: INFO: common: yaml file: D:\Cdac_ML\Assignments\Assignment_4\schema.yaml loaded successfully]
+[2025-11-09 11:25:57,300: INFO: common: created directory at: artifacts]
+[2025-11-09 11:25:57,302: INFO: common: created directory at: artifacts/model_trainer]
+[2025-11-09 11:34:33,926: INFO: common: yaml file: D:\Cdac_ML\Assignments\Assignment_4\config\config.yaml loaded successfully]
+[2025-11-09 11:34:33,927: INFO: common: yaml file: D:\Cdac_ML\Assignments\Assignment_4\params.yaml loaded successfully]
+[2025-11-09 11:34:33,931: INFO: common: yaml file: D:\Cdac_ML\Assignments\Assignment_4\schema.yaml loaded successfully]
+[2025-11-09 11:34:33,932: INFO: common: created directory at: artifacts]
+[2025-11-09 11:34:33,934: INFO: common: created directory at: artifacts/model_trainer]
+[2025-11-09 12:24:53,978: INFO: main: >>>>>> stage <<<<<<<Data Ingestion stage>>>>>>>>> started <<<<<<]
+[2025-11-09 12:24:53,978: INFO: common: yaml file: D:\Cdac_ML\Assignments\Assignment_4\config\config.yaml loaded successfully]
+[2025-11-09 12:24:53,978: INFO: common: yaml file: D:\Cdac_ML\Assignments\Assignment_4\params.yaml loaded successfully]
+[2025-11-09 12:24:53,978: INFO: common: yaml file: D:\Cdac_ML\Assignments\Assignment_4\schema.yaml loaded successfully]
+[2025-11-09 12:24:53,978: INFO: common: created directory at: artifacts]
+[2025-11-09 12:24:53,978: INFO: common: created directory at: artifacts/data_ingestion]
+[2025-11-09 12:24:53,978: INFO: main: >>>>>> stage <<<<<<<Data Ingestion stage>>>>>>>>> completed <<<<<<
+
+x==========x]
+[2025-11-09 12:24:53,994: INFO: main: >>>>>> stage <<<<<<<Data Validation stage>>>>>>>>> started <<<<<<]
+[2025-11-09 12:24:53,996: INFO: common: yaml file: D:\Cdac_ML\Assignments\Assignment_4\config\config.yaml loaded successfully]
+[2025-11-09 12:24:53,997: INFO: common: yaml file: D:\Cdac_ML\Assignments\Assignment_4\params.yaml loaded successfully]
+[2025-11-09 12:24:53,999: INFO: common: yaml file: D:\Cdac_ML\Assignments\Assignment_4\schema.yaml loaded successfully]
+[2025-11-09 12:24:54,000: INFO: common: created directory at: artifacts]
+[2025-11-09 12:24:54,000: INFO: common: created directory at: artifacts/data_validation]
+[2025-11-09 12:24:54,145: INFO: main: >>>>>> stage <<<<<<<Data Validation stage>>>>>>>>> completed <<<<<<
+
+x==========x]
+[2025-11-09 12:24:54,151: INFO: main: >>>>>> stage <<<<<<<Data Transformation stage>>>>>>>>> started <<<<<<]
+[2025-11-09 12:24:54,151: INFO: common: yaml file: D:\Cdac_ML\Assignments\Assignment_4\config\config.yaml loaded successfully]
+[2025-11-09 12:24:54,151: INFO: common: yaml file: D:\Cdac_ML\Assignments\Assignment_4\params.yaml loaded successfully]
+[2025-11-09 12:24:54,151: INFO: common: yaml file: D:\Cdac_ML\Assignments\Assignment_4\schema.yaml loaded successfully]
+[2025-11-09 12:24:54,151: INFO: common: created directory at: artifacts]
+[2025-11-09 12:24:54,151: INFO: common: created directory at: artifacts/data_transformation]
+[2025-11-09 12:24:54,151: ERROR: main: [Errno 2] No such file or directory: 'artifacts/data_ingestion/forest.csv']
+Traceback (most recent call last):
+  File "D:\Cdac_ML\Assignments\Assignment_4\main.py", line 36, in <module>
+    obj.main()
+  File "D:\Cdac_ML\Assignments\Assignment_4\src\Assignment_4\pipeline\Data_transformation_stage.py", line 18, in main
+    data_transformation.train_test_spliting()
+  File "D:\Cdac_ML\Assignments\Assignment_4\src\Assignment_4\components\Data_transformation.py", line 17, in train_test_spliting
+    data = pd.read_csv(self.config.data_path)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Cdac_ML\linear\Lib\site-packages\pandas\io\parsers\readers.py", line 1026, in read_csv
+    return _read(filepath_or_buffer, kwds)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Cdac_ML\linear\Lib\site-packages\pandas\io\parsers\readers.py", line 620, in _read
+    parser = TextFileReader(filepath_or_buffer, **kwds)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Cdac_ML\linear\Lib\site-packages\pandas\io\parsers\readers.py", line 1620, in __init__
+    self._engine = self._make_engine(f, self.engine)
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Cdac_ML\linear\Lib\site-packages\pandas\io\parsers\readers.py", line 1880, in _make_engine
+    self.handles = get_handle(
+                   ^^^^^^^^^^^
+  File "D:\Cdac_ML\linear\Lib\site-packages\pandas\io\common.py", line 873, in get_handle
+    handle = open(
+             ^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'artifacts/data_ingestion/forest.csv'
+[2025-11-09 12:32:42,009: INFO: main: >>>>>> stage <<<<<<<Data Ingestion stage>>>>>>>>> started <<<<<<]
+[2025-11-09 12:32:42,033: INFO: common: yaml file: D:\Cdac_ML\Assignments\Assignment_4\config\config.yaml loaded successfully]
+[2025-11-09 12:32:42,033: INFO: common: yaml file: D:\Cdac_ML\Assignments\Assignment_4\params.yaml loaded successfully]
+[2025-11-09 12:32:42,033: INFO: common: yaml file: D:\Cdac_ML\Assignments\Assignment_4\schema.yaml loaded successfully]
+[2025-11-09 12:32:42,033: INFO: common: created directory at: artifacts]
+[2025-11-09 12:32:42,033: INFO: common: created directory at: artifacts/data_ingestion]
+[2025-11-09 12:32:42,033: INFO: main: >>>>>> stage <<<<<<<Data Ingestion stage>>>>>>>>> completed <<<<<<
+
+x==========x]
+[2025-11-09 12:32:42,033: INFO: main: >>>>>> stage <<<<<<<Data Validation stage>>>>>>>>> started <<<<<<]
+[2025-11-09 12:32:42,033: INFO: common: yaml file: D:\Cdac_ML\Assignments\Assignment_4\config\config.yaml loaded successfully]
+[2025-11-09 12:32:42,033: INFO: common: yaml file: D:\Cdac_ML\Assignments\Assignment_4\params.yaml loaded successfully]
+[2025-11-09 12:32:42,033: INFO: common: yaml file: D:\Cdac_ML\Assignments\Assignment_4\schema.yaml loaded successfully]
+[2025-11-09 12:32:42,041: INFO: common: created directory at: artifacts]
+[2025-11-09 12:32:42,041: INFO: common: created directory at: artifacts/data_validation]
+[2025-11-09 12:32:42,204: INFO: main: >>>>>> stage <<<<<<<Data Validation stage>>>>>>>>> completed <<<<<<
+
+x==========x]
+[2025-11-09 12:32:42,204: INFO: main: >>>>>> stage <<<<<<<Data Transformation stage>>>>>>>>> started <<<<<<]
+[2025-11-09 12:32:42,204: INFO: common: yaml file: D:\Cdac_ML\Assignments\Assignment_4\config\config.yaml loaded successfully]
+[2025-11-09 12:32:42,204: INFO: common: yaml file: D:\Cdac_ML\Assignments\Assignment_4\params.yaml loaded successfully]
+[2025-11-09 12:32:42,204: INFO: common: yaml file: D:\Cdac_ML\Assignments\Assignment_4\schema.yaml loaded successfully]
+[2025-11-09 12:32:42,204: INFO: common: created directory at: artifacts]
+[2025-11-09 12:32:42,230: INFO: common: created directory at: artifacts/data_transformation]
+[2025-11-09 12:32:44,906: INFO: Data_transformation: Train & Test transformed and saved successfully.]
+[2025-11-09 12:32:44,906: INFO: Data_transformation: Train shape: (103904, 29)]
+[2025-11-09 12:32:44,906: INFO: Data_transformation: Test  shape: (25976, 29)]
+[2025-11-09 12:32:44,922: INFO: main: >>>>>> stage <<<<<<<Data Transformation stage>>>>>>>>> completed <<<<<<
+
+x==========x]
+[2025-11-09 12:34:53,402: INFO: common: yaml file: D:\Cdac_ML\Assignments\Assignment_4\config\config.yaml loaded successfully]
+[2025-11-09 12:34:53,405: INFO: common: yaml file: D:\Cdac_ML\Assignments\Assignment_4\params.yaml loaded successfully]
+[2025-11-09 12:34:53,409: INFO: common: yaml file: D:\Cdac_ML\Assignments\Assignment_4\schema.yaml loaded successfully]
+[2025-11-09 12:34:53,412: INFO: common: created directory at: artifacts]
+[2025-11-09 12:34:53,413: INFO: common: created directory at: artifacts/model_trainer]
+[2025-11-09 14:13:26,637: INFO: main: >>>>>> stage <<<<<<<Data Ingestion stage>>>>>>>>> started <<<<<<]
+[2025-11-09 14:13:26,654: INFO: common: yaml file: D:\Cdac_ML\Assignments\Assignment_4\config\config.yaml loaded successfully]
+[2025-11-09 14:13:26,659: INFO: common: yaml file: D:\Cdac_ML\Assignments\Assignment_4\params.yaml loaded successfully]
+[2025-11-09 14:13:26,664: INFO: common: yaml file: D:\Cdac_ML\Assignments\Assignment_4\schema.yaml loaded successfully]
+[2025-11-09 14:13:26,667: INFO: common: created directory at: artifacts]
+[2025-11-09 14:13:26,670: INFO: common: created directory at: artifacts/data_ingestion]
+[2025-11-09 14:13:26,670: INFO: main: >>>>>> stage <<<<<<<Data Ingestion stage>>>>>>>>> completed <<<<<<
+
+x==========x]
+[2025-11-09 14:13:26,670: INFO: main: >>>>>> stage <<<<<<<Data Validation stage>>>>>>>>> started <<<<<<]
+[2025-11-09 14:13:26,670: INFO: common: yaml file: D:\Cdac_ML\Assignments\Assignment_4\config\config.yaml loaded successfully]
+[2025-11-09 14:13:26,673: INFO: common: yaml file: D:\Cdac_ML\Assignments\Assignment_4\params.yaml loaded successfully]
+[2025-11-09 14:13:26,676: INFO: common: yaml file: D:\Cdac_ML\Assignments\Assignment_4\schema.yaml loaded successfully]
+[2025-11-09 14:13:26,677: INFO: common: created directory at: artifacts]
+[2025-11-09 14:13:26,678: INFO: common: created directory at: artifacts/data_validation]
+[2025-11-09 14:13:26,834: INFO: main: >>>>>> stage <<<<<<<Data Validation stage>>>>>>>>> completed <<<<<<
+
+x==========x]
+[2025-11-09 14:13:26,836: INFO: main: >>>>>> stage <<<<<<<Data Transformation stage>>>>>>>>> started <<<<<<]
+[2025-11-09 14:13:26,837: INFO: common: yaml file: D:\Cdac_ML\Assignments\Assignment_4\config\config.yaml loaded successfully]
+[2025-11-09 14:13:26,837: INFO: common: yaml file: D:\Cdac_ML\Assignments\Assignment_4\params.yaml loaded successfully]
+[2025-11-09 14:13:26,837: INFO: common: yaml file: D:\Cdac_ML\Assignments\Assignment_4\schema.yaml loaded successfully]
+[2025-11-09 14:13:26,843: INFO: common: created directory at: artifacts]
+[2025-11-09 14:13:26,844: INFO: common: created directory at: artifacts/data_transformation]
+[2025-11-09 14:13:29,726: INFO: Data_transformation: Train & Test transformed and saved successfully.]
+[2025-11-09 14:13:29,726: INFO: Data_transformation: Train shape: (103904, 29)]
+[2025-11-09 14:13:29,726: INFO: Data_transformation: Test  shape: (25976, 29)]
+[2025-11-09 14:13:29,736: INFO: main: >>>>>> stage <<<<<<<Data Transformation stage>>>>>>>>> completed <<<<<<
+
+x==========x]
+[2025-11-09 14:13:29,736: INFO: main: >>>>>> stage Model Trainer stage started <<<<<<]
+[2025-11-09 14:13:29,740: INFO: common: yaml file: D:\Cdac_ML\Assignments\Assignment_4\config\config.yaml loaded successfully]
+[2025-11-09 14:13:29,744: INFO: common: yaml file: D:\Cdac_ML\Assignments\Assignment_4\params.yaml loaded successfully]
+[2025-11-09 14:13:29,746: INFO: common: yaml file: D:\Cdac_ML\Assignments\Assignment_4\schema.yaml loaded successfully]
+[2025-11-09 14:13:29,748: INFO: common: created directory at: artifacts]
+[2025-11-09 14:13:29,748: INFO: common: created directory at: artifacts/model_trainer]
+[2025-11-09 14:13:55,252: INFO: main: >>>>>> stage Model Trainer stage completed <<<<<<
+
+x==========x]
+[2025-11-09 14:13:55,252: INFO: main: >>>>>> stage Model evaluation stage started <<<<<<]
+[2025-11-09 14:13:55,252: INFO: common: yaml file: D:\Cdac_ML\Assignments\Assignment_4\config\config.yaml loaded successfully]
+[2025-11-09 14:13:55,252: INFO: common: yaml file: D:\Cdac_ML\Assignments\Assignment_4\params.yaml loaded successfully]
+[2025-11-09 14:13:55,252: INFO: common: yaml file: D:\Cdac_ML\Assignments\Assignment_4\schema.yaml loaded successfully]
+[2025-11-09 14:13:55,252: INFO: common: created directory at: artifacts]
+[2025-11-09 14:13:55,259: INFO: common: created directory at: artifacts/model_evaluation]
+[2025-11-09 14:13:55,809: INFO: common: json file saved at: artifacts\model_evaluation\metrics.json]
+[2025-11-09 14:13:55,810: INFO: main: >>>>>> stage Model evaluation stage completed <<<<<<
+
+x==========x]

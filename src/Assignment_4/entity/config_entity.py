@@ -19,5 +19,26 @@ class DataTransformationConfig:
     data_path: Path
 
     
+@dataclass(frozen=True)
+class ModelTrainerConfig:
+    root_dir: Path
+    train_data_path: Path
+    test_data_path: Path
+    model_name: str
+    estimator: any
+    n_estimators: int      
+    learning_rate: float     
+    random_state: int
+    params : any
+    target_column: str
 
+
+@dataclass(frozen=True)
+class ModelEvaluationConfig:
+    root_dir: Path
+    test_data_path: Path
+    model_path: Path
+    all_params: dict
+    metric_file_name: Path
+    target_column: str
 

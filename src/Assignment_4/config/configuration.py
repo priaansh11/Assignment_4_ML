@@ -4,6 +4,9 @@ from src.Assignment_4.constants import *
 from src.Assignment_4.utils.common import read_yaml, create_directories
 from src.Assignment_4.entity.config_entity import *
 
+from sklearn.tree import DecisionTreeClassifier
+
+
 
 class ConfigurationManager:
     def __init__(
@@ -59,3 +62,57 @@ class ConfigurationManager:
         )
 
         return data_transformation_config
+    
+
+    def get_model_trainer_config(self) -> ModelTrainerConfig:
+        config = self.config.model_trainer
+        params = self.params.AdaBoostClassifier
+        schema =  self.schema.TARGET_COLUMN
+
+        create_directories([config.root_dir])
+
+        # Build estimator here
+        estimator1 = DecisionTreeClassifier(
+            max_depth=params.estimator.max_depth,
+            random_state=params.estimator.random_state
+        )
+
+        model_trainer_config = ModelTrainerConfig(
+            root_dir=config.root_dir,
+            train_data_path=config.train_data_path,
+            test_data_path=config.test_data_path,
+            model_name=config.model_name,
+            estimator=estimator1,
+            n_estimators=params.n_estimators,
+            learning_rate=params.learning_rate,
+            random_state=params.random_state,
+            target_column=schema.name,
+            params=self.params
+        )
+
+        return model_trainer_config
+    
+
+
+    def get_model_evaluation_config(self) -> ModelEvaluationConfig:
+        config = self.config.model_evaluation
+        params = self.params.AdaBoostClassifier
+        schema =  self.schema.TARGET_COLUMN
+
+        create_directories([config.root_dir])
+
+        model_evaluation_config = ModelEvaluationConfig(
+            root_dir=config.root_dir,
+            test_data_path=config.test_data_path,
+            model_path = config.model_path,
+            all_params=params,
+            metric_file_name = config.metric_file_name,
+            target_column = schema.name
+           
+        )
+
+        return model_evaluation_config
+    
+
+
+    

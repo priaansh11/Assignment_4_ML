@@ -1,5 +1,7 @@
 AdaBoostClassifier:
-  estimator: DecisionTreeClassifier(max_depth=2, random_state=42),
-  n_estimators: 200,       
-  learning_rate: 0.8,     
+  estimator:
+    max_depth: 2
+    random_state: 42
+  n_estimators: 200
+  learning_rate: 0.8
   random_state: 42

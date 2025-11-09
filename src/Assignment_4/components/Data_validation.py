@@ -14,7 +14,7 @@ class DataValidation:
     def validate_all_columns(self) -> bool:
         try:
             validation_status = None
-            data = pd.read_csv(r"D:\Cdac_ML\Assignments\Assignment_4\artifacts\data_ingestion\airplane.csv")
+            data = pd.read_csv(r"D:\Cdac_ML\Assignments\Assignment_4\artifacts\data_ingestion\airplane1.csv")
             all_cols = list(data.columns)
 
             all_schema = self.config.all_schema.keys()
